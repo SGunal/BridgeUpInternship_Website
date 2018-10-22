@@ -1,1 +1,17 @@
 # BridgeUP-STEM-DeLaPena
+
+# H1 TEAM GOALS
+
+
+
+
+
+
+
+
+
+
+
+# H2 TODAY'S LEARNING
+
+# H3 DAY 7 - OCTOBER 23, 2018
