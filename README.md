@@ -2,6 +2,8 @@
 
 # TEAM GOALS
 
+Work together to learn how to analyze data and create a website - Maya 
+
 This is my goal for the team - Dr. De La Pena
 
 
