@@ -2,7 +2,7 @@
 
 # TEAM GOALS
 
-## Maya: work together to learn how to analyze data and create a website 
+Work together to learn how to analyze data and create a website - Maya 
 
 
 
