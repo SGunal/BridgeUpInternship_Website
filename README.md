@@ -1,6 +1,5 @@
 # BridgeUP-STEM-DeLaPena
 
-<<<<<<< HEAD
 # TEAM GOALS
 
 <<<<<<< HEAD
