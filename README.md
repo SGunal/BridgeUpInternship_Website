@@ -24,6 +24,7 @@ Maya:
 -  figure out how to use GitHub successfully
 -  don't be discouraged by challenges/setbacks
 -  participate/speak up
+-  have fun!
  
 ## PROJECT PLAN
 
