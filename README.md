@@ -16,7 +16,10 @@
   - What was the format of the data set?
 * Step 2 - What are 3 good questions we might ask of the data?
   - Is this dataset good enough?
-* Step 3 - What have other's done with the data?
+  - What are 3 potential data sources for this project?
+* Step 3 - What are three possible goals for the project?
+  - What have other's done with the data?
+  - What data would we need to achieve each goal?
 
 ##### Part III - Exploratory Data Analysis
 * Step 1 - Descriptive statistics
