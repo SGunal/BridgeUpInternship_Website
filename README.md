@@ -4,6 +4,7 @@
 That we all feel that challenges are fun - Dr. De La Pena
 Ateam goal we should have is to understand how to use Git and GitHub - Zoe
 A team goal is to create something cool - Selale 
+A team goal is to work together and help each other - Maya
 ## PROJECT PLAN
 
 ##### Part I - Getting Ready
