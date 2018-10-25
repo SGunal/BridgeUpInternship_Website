@@ -3,6 +3,12 @@
 ## TEAM GOALS
 That we all feel that challenges are fun - Dr. De La Pena
 Ateam goal we should have is to understand how to use Git and GitHub - Zoe 
+
+3 More Internship Goals:
+To understand how to use GitHub
+To remember how to use GitHub
+To… be able to apply this knowledge (of Git/GitHub) to settings outside of BridgeUP. (So in school or maybe a future job needs me to be good with moving files.) 
+
 ## PROJECT PLAN
 
 ##### Part I - Getting Ready
