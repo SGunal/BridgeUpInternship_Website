@@ -1,6 +1,10 @@
 # BridgeUP-STEM-DeLaPena
 
 ## TEAM GOALS
+1. My first goal is to understand git-hub more better.
+2. Second goal is to learn how to work with terminal.
+3. Third goal is to be able to use this knowledge in some other place.
+
 
 + That we all feel that challenges are fun - Dr. De La Pena
 + A team goal we should have is to understand how to use Git and GitHub - Zoe 
