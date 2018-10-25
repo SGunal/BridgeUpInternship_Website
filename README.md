@@ -23,12 +23,16 @@ Selale personal goals:
 + gain more confidence in presenting/public speaking
 + have fun!  
 
+Stephanie's Goals:
++ My first goal is to understand git-hub more better.
++ Second goal is to learn how to work with terminal.
++ Third goal is to be able to use this knowledge in some other place.
+
 Maya:
 -  figure out how to use GitHub successfully
 -  don't be discouraged by challenges/setbacks
 -  participate/speak up
 -  have fun!
- 
 
 ## PROJECT PLAN
 
