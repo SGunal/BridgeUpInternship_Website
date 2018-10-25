@@ -15,6 +15,11 @@ Zoe's Goals
 + To remember how to use GitHub
 + To… be able to apply this knowledge (of Git/GitHub) to settings outside of BridgeUP. (So in school or maybe a future job needs me to be good with moving files.) 
 
+Selale personal goals:
++ 1)review old coding skills
++ 2)become comfortable with using git and github
++ 3) gain more confidence in presenting/public speaking  
+
 ## PROJECT PLAN
 
 ##### Part I - Getting Ready
