@@ -15,6 +15,8 @@ Zoe's Goals
 + To remember how to use GitHub
 + To… be able to apply this knowledge (of Git/GitHub) to settings outside of BridgeUP. (So in school or maybe a future job needs me to be good with moving files.) 
 
+The mitochondria is the power house of the cell. - Zoe
+
 ## PROJECT PLAN
 
 ##### Part I - Getting Ready
