@@ -17,6 +17,19 @@ Zoe's Goals
 
 The mitochondria is the power house of the cell. - Zoe
 
+Selale personal goals:
++ review old coding skills
++ become comfortable with using git and github
++ gain more confidence in presenting/public speaking
++ have fun!  
+
+Maya:
+-  figure out how to use GitHub successfully
+-  don't be discouraged by challenges/setbacks
+-  participate/speak up
+-  have fun!
+ 
+
 ## PROJECT PLAN
 
 ##### Part I - Getting Ready
