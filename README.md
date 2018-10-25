@@ -8,6 +8,12 @@ Ateam goal we should learn more how we can use the terminal for do so many cool 
 A team goal is to create something cool - Selale 
 A team goal is to work together and help each other - Maya
 
+1. My first goal is to understand git-hub more better.
+2. Second goal is to learn how to work with terminal.
+3. Third goal is to be able to use this knowledge in some other place.
+
+
+
 ## PROJECT PLAN
 
 ##### Part I - Getting Ready
