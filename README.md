@@ -14,7 +14,10 @@ Zoe's Goals
 + To understand how to use GitHub
 + To remember how to use GitHub
 + To… be able to apply this knowledge (of Git/GitHub) to settings outside of BridgeUP. (So in school or maybe a future job needs me to be good with moving files.) 
-
+Aminata's Goal
++Learn more about data science, and do what data scientist do.
++Learn how to work with GitHub and how to collaborate with other coders in real time
++Help create a Website for high schoolers
 Selale personal goals:
 + review old coding skills
 + become comfortable with using git and github
