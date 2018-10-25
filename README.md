@@ -5,7 +5,8 @@ That we all feel that challenges are fun - Dr. De La Pena
 
 Ateam goal we should have is to understand how to use Git and GitHub - Zoe 
 Ateam goal we should learn more how we can use the terminal for do so many cool stuff- yari
-A team goal is to create something cool - Selale 
+A team goal is to create something cool - Selale
+Selale personal goals: 1)review old coding skills 2)become comfortable with using git and github 3) gain more confidence in presenting/public speaking  
 A team goal is to work together and help each other - Maya
 
 ## PROJECT PLAN
