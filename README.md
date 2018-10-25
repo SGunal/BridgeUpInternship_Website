@@ -12,7 +12,10 @@
 
 ##### Part II - Data Cleaning and Processing
 * Step 1 - Obtaining Data
+  - Where did we find the data?
+  - What was the format of the data set?
 * Step 2 - What are 3 good questions we might ask of the data?
+  - Is this dataset good enough?
 * Step 3 - What have other's done with the data?
 
 ##### Part III - Exploratory Data Analysis
