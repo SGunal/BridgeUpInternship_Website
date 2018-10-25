@@ -1,5 +1,5 @@
 # BridgeUP-STEM-DeLaPena
-
+MY GOAL IS TO LEARN MORE ABOUT GIT-HUB AND BE ABLE TO USE TERMINAL MORE BETTER.
 ## TEAM GOALS
 That we all feel that challenges are fun - Dr. De La Pena
 
