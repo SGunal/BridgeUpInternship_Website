@@ -1,6 +1,7 @@
 # BridgeUP-STEM-DeLaPena
 
 ## TEAM GOALS
+That we all feel that challenges are fun - Dr. De La Pena
 
 ## PROJECT PLAN
 
