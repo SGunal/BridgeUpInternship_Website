@@ -8,6 +8,11 @@ Ateam goal we should learn more how we can use the terminal for do so many cool 
 A team goal is to create something cool - Selale 
 A team goal is to work together and help each other - Maya
 
+Maya:
+-  figure out how to use GitHub successfully
+-  don't be discouraged by challenges/setbacks
+-  participate/speak up
+ 
 ## PROJECT PLAN
 
 ##### Part I - Getting Ready
