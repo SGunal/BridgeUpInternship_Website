@@ -20,6 +20,11 @@ Selale personal goals:
 + 2)become comfortable with using git and github
 + 3) gain more confidence in presenting/public speaking  
 
+Maya:
+-  figure out how to use GitHub successfully
+-  don't be discouraged by challenges/setbacks
+-  participate/speak up
+ 
 ## PROJECT PLAN
 
 ##### Part I - Getting Ready
