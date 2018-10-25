@@ -1,18 +1,36 @@
 # BridgeUP-STEM-DeLaPena
-MY GOAL IS TO LEARN MORE ABOUT GIT-HUB AND BE ABLE TO USE TERMINAL MORE BETTER.
+
 ## TEAM GOALS
-That we all feel that challenges are fun - Dr. De La Pena
 
-Ateam goal we should have is to understand how to use Git and GitHub - Zoe 
-Ateam goal we should learn more how we can use the terminal for do so many cool stuff- yari
-A team goal is to create something cool - Selale 
-A team goal is to work together and help each other - Maya
++ That we all feel that challenges are fun - Dr. De La Pena
++ A team goal we should have is to understand how to use Git and GitHub - Zoe 
++ A team goal we should learn more how we can use the terminal for do so many cool stuff- yari
++ A team goal is to create something cool - Selale 
++ A team goal is to work together and help each other - Maya
++ MY GOAL IS TO LEARN MORE ABOUT GIT-HUB AND BE ABLE TO USE TERMINAL MORE BETTER - Stephanie
 
-1. My first goal is to understand git-hub more better.
-2. Second goal is to learn how to work with terminal.
-3. Third goal is to be able to use this knowledge in some other place.
+Zoe's Goals
++ 3 More Internship Goals:
++ To understand how to use GitHub
++ To remember how to use GitHub
++ To… be able to apply this knowledge (of Git/GitHub) to settings outside of BridgeUP. (So in school or maybe a future job needs me to be good with moving files.) 
 
+Selale personal goals:
++ review old coding skills
++ become comfortable with using git and github
++ gain more confidence in presenting/public speaking
++ have fun!  
 
+Stephanie's Goals:
++ My first goal is to understand git-hub more better.
++ Second goal is to learn how to work with terminal.
++ Third goal is to be able to use this knowledge in some other place.
+
+Maya:
+-  figure out how to use GitHub successfully
+-  don't be discouraged by challenges/setbacks
+-  participate/speak up
+-  have fun!
 
 ## PROJECT PLAN
 
