@@ -36,9 +36,10 @@ Maya's Goals:
 +  don't be discouraged by challenges/setbacks
 +  participate/speak up
 
-* 1)I want to learn more about code  
-* 2)I want to know more about terminal, which code and what we can do using the terminal 
-* 3)I want to learn the most that I can,  learn how do fun (cool stuff) with code for teach and show what I learned to my friends 
+Yari's Goals:
++ to learn more about code  
++ to know more about terminal, which code and what we can do using the terminal 
+* to learn the most that I can,  learn how do fun (cool stuff) with code for teach and show what I learned to my friends 
 
 ## PROJECT PLAN
 
