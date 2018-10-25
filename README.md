@@ -2,19 +2,19 @@
 
 ## TEAM GOALS
 
-+ That we all feel that challenges are fun - Dr. De La Pena
-+ A team goal we should have is to understand how to use Git and GitHub - Zoe 
-+ A team goal we should learn more how we can use the terminal for do so many cool stuff- Yari
-+ A team goal is to create something cool - Selale 
-+ A team goal is to work together and help each other - Maya
-+ A team goal is to learn more about github and be able to use terminal better - Stephanie
-+ Team goal is to unterstand what we are coding and why. - Aminata
++ That we feel that challenges are fun - Dr. De La Pena
++ That we understand how to use Git and GitHub - Zoe 
++ That we learn more about how we can use the terminal to do so many cool stuff - Yari
++ That we create something cool - Selale 
++ That we work together and help each other - Maya
++ That we learn more about github and are able to use terminal better - Stephanie
++ That we understand what we are coding and why. - Aminata
++ That we have fun! - everyone
 
 Zoe's Goals
-+ 3 More Internship Goals:
 + To understand how to use GitHub
 + To remember how to use GitHub
-+ To… be able to apply this knowledge (of Git/GitHub) to settings outside of BridgeUP. (So in school or maybe a future job needs me to be good with moving files.) 
++ To be able to apply this knowledge (of Git/GitHub) to settings outside of BridgeUP. (So in school or maybe a future job needs me to be good with moving files.) 
 
 Aminata's Goal
 + Learn more about data science, and do what data scientist do.
@@ -24,19 +24,17 @@ Aminata's Goal
 Selale's Goals:
 + review old coding skills
 + become comfortable with using git and github
-+ gain more confidence in presenting/public speaking
-+ have fun!  
++ gain more confidence in presenting/public speaking 
 
 Stephanie's Goals:
-+ My first goal is to understand git-hub more better.
-+ Second goal is to learn how to work with terminal.
-+ Third goal is to be able to use this knowledge in some other place.
++ to understand github more better.
++ to learn how to work with terminal.
++ to be able to use this knowledge in some other place.
 
 Maya's Goals:
 +  figure out how to use GitHub successfully
 +  don't be discouraged by challenges/setbacks
 +  participate/speak up
-+  have fun!
 
 * 1)I want to learn more about code  
 * 2)I want to know more about terminal, which code and what we can do using the terminal 
