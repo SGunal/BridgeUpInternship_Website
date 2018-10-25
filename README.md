@@ -18,7 +18,8 @@ Zoe's Goals
 Selale personal goals:
 + review old coding skills
 + become comfortable with using git and github
-+ gain more confidence in presenting/public speaking  
++ gain more confidence in presenting/public speaking
++ have fun!  
 
 Maya:
 -  figure out how to use GitHub successfully
