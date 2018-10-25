@@ -8,7 +8,7 @@
 + A team goal is to create something cool - Selale 
 + A team goal is to work together and help each other - Maya
 + MY GOAL IS TO LEARN MORE ABOUT GIT-HUB AND BE ABLE TO USE TERMINAL MORE BETTER - Stephanie
-
++ Team goal is to unterstand what we are coding and why. -Aminata
 Zoe's Goals
 + 3 More Internship Goals:
 + To understand how to use GitHub
