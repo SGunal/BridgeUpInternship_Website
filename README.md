@@ -39,7 +39,7 @@ Maya's Goals:
 Yari's Goals:
 + to learn more about code  
 + to know more about terminal, which code and what we can do using the terminal 
-* to learn the most that I can,  learn how do fun (cool stuff) with code for teach and show what I learned to my friends 
++ to learn the most that I can, learn how do fun (cool stuff) with code for teach and show what I learned to my friends 
 
 ## PROJECT PLAN
 
