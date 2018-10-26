@@ -72,4 +72,4 @@ Yari's Goals:
 * Step 2 - Make presentation
 * Step 3 - Practice presentation
 
-## Today we learned <a name="lessonslearned"></a>
+## TODAY WE LEARNED <a name="lessonslearned"></a>
