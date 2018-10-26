@@ -1,6 +1,9 @@
-# BridgeUP-STEM-DeLaPena
+# Table of Contents
+1. [Team Goals](#teamgoals)
+2. [Project Plan](#projectplan)
+3. [Lessons Learned](#lessonslearned)
 
-## TEAM GOALS
+## TEAM GOALS <a name="teamgoals"></a>
 
 + That we feel that challenges are fun - Dr. De La Pena
 + That we understand how to use Git and GitHub - Zoe 
@@ -41,7 +44,7 @@ Yari's Goals:
 + to know more about terminal, which code and what we can do using the terminal 
 + to learn the most that I can, learn how do fun (cool stuff) with code for teach and show what I learned to my friends 
 
-## PROJECT PLAN
+## PROJECT PLAN <a name="projectplan"></a>
 
 ##### Part I - Getting Ready
 * Step 1 - Terminal
@@ -68,3 +71,5 @@ Yari's Goals:
 * Step 1 - Plan presentation
 * Step 2 - Make presentation
 * Step 3 - Practice presentation
+
+## Today we learned <a name="lessonslearned"></a>
