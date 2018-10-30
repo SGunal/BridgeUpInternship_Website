@@ -74,26 +74,24 @@ Yari's Goals:
 
 ## TODAY WE LEARNED <a name="lessonslearned"></a>
 
-
-- How to use Git/GitHub and terminal - Maya
-- How to create and move files and directories using terminal - Maya
+Maya:
++ How to use Git/GitHub and terminal
++ How to create and move files and directories using terminal
++ How to integrate changes we made with the original version of file
 
 Aminata:
-1) I learned how to use git and github to collaboarate with other coders.
-2) Learned how to use termnal to create files. 
++ I learned how to use git and github to collaboarate with other coders.
++ Learned how to use termnal to create files. 
 
 Zoe:
-- How to remove an upstream
-- How to abort rebasing to continue my projec
++ How to remove an upstream
++ How to abort rebasing to continue my projec
 
 Yari:
++ I learn many commands for do many stuff.
++ I leran how I can create folder with the terminal. 
++ I learn how I can create a branch. 
 
-1) I learn many commands for do many stuff.
-2) I leran how I can create folder with the terminal. 
-3) I learn how I can create a branch. 
-
-- how to integrate changes we made with the original version of file
-- How to use Git/GitHub and terminal - Maya
-
-- how to integrate changes we made with the original version of file - Selale
-- how to set up upstream/remote branches - Selale
+Selale:
++ How to integrate changes we made with the original version of file
++ How to set up upstream/remote branches
