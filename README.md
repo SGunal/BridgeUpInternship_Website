@@ -73,6 +73,7 @@ I learned about  git and git hub, and how I can use them to collaborate with oth
 * Step 3 - Practice presentation
 
 ## TODAY WE LEARNED <a name="lessonslearned"></a>
+
 Yari:
 
 1) I learn many commands for do many stuff
@@ -80,3 +81,6 @@ Yari:
 3) I learn how I can create a branch 
 
 - how to integrate changes we made with the original version of file
+- How to use Git/GitHub and terminal - Maya
+
+- how to integrate changes we made with the original version of file - Selale
