@@ -14,6 +14,13 @@
 + That we understand what we are coding and why. - Aminata
 + That we have fun! - everyone
 
+## TEAM GOALS
+1. My first goal is to understand git-hub more better.
+2. Second goal is to learn how to work with terminal.
+3. Third goal is to be able to use this knowledge in some other place.
+
+>>>>>>> f4af3df321dc62dc5c6eee7ca34850d821fb3757
+
 Zoe's Goals
 + To understand how to use GitHub
 + To remember how to use GitHub
