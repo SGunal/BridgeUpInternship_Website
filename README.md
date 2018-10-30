@@ -74,12 +74,17 @@ Yari's Goals:
 
 ## TODAY WE LEARNED <a name="lessonslearned"></a>
 
-I learned how to use git and github to collaboarate with other coders. - Aminata
 
+- How to use Git/GitHub and terminal - Maya
+
+Aminata:
+1) I learned how to use git and github to collaboarate with other coders.
+2) Learned how to use termnal to create files. 
 
 Zoe:
 - How to remove an upstream
 - How to abort rebasing to continue my projec
+
 
 Yari:
 
