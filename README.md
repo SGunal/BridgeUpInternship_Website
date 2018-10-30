@@ -73,3 +73,10 @@ Yari's Goals:
 * Step 3 - Practice presentation
 
 ## TODAY WE LEARNED <a name="lessonslearned"></a>
+                     
+			Yari:
+
+1) I learn many commands for do many stuff
+2) I leran how I can create folder with the terminal 
+3) I learn how I can create a branch 
+
