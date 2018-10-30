@@ -73,3 +73,4 @@ I learned about  git and git hub, and how I can use them to collaborate with oth
 * Step 3 - Practice presentation
 
 ## TODAY WE LEARNED <a name="lessonslearned"></a>
+- how to integrate changes we made with the original version of file
