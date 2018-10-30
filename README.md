@@ -81,6 +81,7 @@ Yari's Goals:
 
  HEAD
 - How to use Git/GitHub and terminal - Maya
+- How to create and move files and directories using terminal - Maya
 
 I learned how to use git and github to collaboarate with other coders. 
   added lessons learned
