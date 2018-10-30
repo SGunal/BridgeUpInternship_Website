@@ -76,7 +76,10 @@ Yari's Goals:
 
 I learned how to use git and github to collaboarate with other coders. - Aminata
 
-How to remove an upstream - Zoe
+
+Zoe:
+- How to remove an upstream
+- How to abort rebasing to continue my projec
 
 Yari:
 
