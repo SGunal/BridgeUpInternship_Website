@@ -45,7 +45,7 @@ Yari's Goals:
 + to learn the most that I can, learn how do fun (cool stuff) with code for teach and show what I learned to my friends 
 
 ## PROJECT PLAN <a name="projectplan"></a>
-
+I learned about  git and git hub, and how I can use them to collaborate with other coders.
 ##### Part I - Getting Ready
 * Step 1 - Terminal
 * Step 2 - Git
