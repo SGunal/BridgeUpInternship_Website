@@ -96,3 +96,4 @@ Yari:
 - How to use Git/GitHub and terminal - Maya
 
 - how to integrate changes we made with the original version of file - Selale
+- how to set up upstream/remote branches - Selale
