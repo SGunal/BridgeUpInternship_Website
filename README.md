@@ -19,8 +19,6 @@
 2. Second goal is to learn how to work with terminal.
 3. Third goal is to be able to use this knowledge in some other place.
 
->>>>>>> f4af3df321dc62dc5c6eee7ca34850d821fb3757
-
 Zoe's Goals
 + To understand how to use GitHub
 + To remember how to use GitHub
@@ -81,6 +79,8 @@ I learned about  git and git hub, and how I can use them to collaborate with oth
 
 ## TODAY WE LEARNED <a name="lessonslearned"></a>
 
+
+How to remove an upstream - Zoe
 Yari:
 
 1) I learn many commands for do many stuff
