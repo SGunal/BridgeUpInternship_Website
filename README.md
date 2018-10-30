@@ -14,15 +14,15 @@
 + That we understand what we are coding and why. - Aminata
 + That we have fun! - everyone
 
-Zoe's Goals
-+ To understand how to use GitHub
-+ To remember how to use GitHub
-+ To be able to apply this knowledge (of Git/GitHub) to settings outside of BridgeUP. (So in school or maybe a future job needs me to be good with moving files.) 
-
 Aminata's Goal
 + Learn more about data science, and do what data scientist do.
 + Learn how to work with GitHub and how to collaborate with other coders in real time
 + Help create a Website for high schoolers
+
+Maya's Goals:
++  figure out how to use GitHub successfully
++  don't be discouraged by challenges/setbacks
++  participate/speak up
 
 Selale's Goals:
 + review old coding skills
@@ -34,15 +34,15 @@ Stephanie's Goals:
 + to learn how to work with terminal.
 + to be able to use this knowledge in some other place.
 
-Maya's Goals:
-+  figure out how to use GitHub successfully
-+  don't be discouraged by challenges/setbacks
-+  participate/speak up
-
 Yari's Goals:
 + to learn more about code  
 + to know more about terminal, which code and what we can do using the terminal 
 + to learn the most that I can, learn how do fun (cool stuff) with code for teach and show what I learned to my friends 
+
+Zoe's Goals
++ To understand how to use GitHub
++ To remember how to use GitHub
++ To be able to apply this knowledge (of Git/GitHub) to settings outside of BridgeUP. (So in school or maybe a future job needs me to be good with moving files.) 
 
 ## PROJECT PLAN <a name="projectplan"></a>
 
@@ -74,24 +74,24 @@ Yari's Goals:
 
 ## TODAY WE LEARNED <a name="lessonslearned"></a>
 
+Aminata:
++ I learned how to use git and github to collaboarate with other coders.
++ Learned how to use termnal to create files. 
+
 Maya:
 + How to use Git/GitHub and terminal
 + How to create and move files and directories using terminal
 + How to integrate changes we made with the original version of file
 
-Aminata:
-+ I learned how to use git and github to collaboarate with other coders.
-+ Learned how to use termnal to create files. 
-
-Zoe:
-+ How to remove an upstream
-+ How to abort rebasing to continue my projec
+Selale:
++ How to integrate changes we made with the original version of file
++ How to set up upstream/remote branches
 
 Yari:
 + I learn many commands for do many stuff.
 + I leran how I can create folder with the terminal. 
 + I learn how I can create a branch. 
 
-Selale:
-+ How to integrate changes we made with the original version of file
-+ How to set up upstream/remote branches
+Zoe:
++ How to remove an upstream
++ How to abort rebasing to continue my projec
