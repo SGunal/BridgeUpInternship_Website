@@ -73,3 +73,4 @@ Yari's Goals:
 * Step 3 - Practice presentation
 
 ## TODAY WE LEARNED <a name="lessonslearned"></a>
+- how to integrate changes we made with the original version of file
