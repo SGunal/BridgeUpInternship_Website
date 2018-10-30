@@ -86,12 +86,11 @@ Zoe:
 - How to remove an upstream
 - How to abort rebasing to continue my projec
 
-
 Yari:
 
-1) I learn many commands for do many stuff
-2) I leran how I can create folder with the terminal 
-3) I learn how I can create a branch 
+1) I learn many commands for do many stuff.
+2) I leran how I can create folder with the terminal. 
+3) I learn how I can create a branch. 
 
 - how to integrate changes we made with the original version of file
 - How to use Git/GitHub and terminal - Maya
