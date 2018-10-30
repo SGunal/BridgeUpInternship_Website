@@ -86,11 +86,12 @@ I learned how to use git and github to collaboarate with other coders.
   added lessons learned
 
 How to remove an upstream - Zoe
+
 Yari:
 
-1) I learn many commands for do many stuff
-2) I leran how I can create folder with the terminal 
-3) I learn how I can create a branch 
+1) I learn many commands for do many stuff.
+2) I leran how I can create folder with the terminal. 
+3) I learn how I can create a branch. 
 
 - how to integrate changes we made with the original version of file
 - How to use Git/GitHub and terminal - Maya
