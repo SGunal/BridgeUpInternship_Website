@@ -75,6 +75,7 @@ Yari's Goals:
 ## TODAY WE LEARNED <a name="lessonslearned"></a>
 
 
+
 - How to use Git/GitHub and terminal - Maya
 - How to create and move files and directories using terminal - Maya
 
@@ -97,3 +98,4 @@ Yari:
 
 - how to integrate changes we made with the original version of file - Selale
 - how to set up upstream/remote branches - Selale
+
