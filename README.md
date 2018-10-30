@@ -14,11 +14,6 @@
 + That we understand what we are coding and why. - Aminata
 + That we have fun! - everyone
 
-## TEAM GOALS
-1. My first goal is to understand git-hub more better.
-2. Second goal is to learn how to work with terminal.
-3. Third goal is to be able to use this knowledge in some other place.
-
 Zoe's Goals
 + To understand how to use GitHub
 + To remember how to use GitHub
@@ -79,15 +74,12 @@ Yari's Goals:
 
 ## TODAY WE LEARNED <a name="lessonslearned"></a>
 
- HEAD
-- How to use Git/GitHub and terminal - Maya
+I learned how to use git and github to collaboarate with other coders. - Aminata
 
-I learned how to use git and github to collaboarate with other coders. 
-  added lessons learned
 
 Zoe:
 - How to remove an upstream
-- How to abort rebasing to continue my project
+- How to abort rebasing to continue my projec
 
 Yari:
 
