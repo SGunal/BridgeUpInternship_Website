@@ -4,7 +4,6 @@
 3. [Lessons Learned](#lessonslearned)
 
 ## TEAM GOALS <a name="teamgoals"></a>
-
 + That we feel that challenges are fun - Dr. De La Pena
 + That we understand how to use Git and GitHub - Zoe 
 + That we learn more about how we can use the terminal to do so many cool stuff - Yari
@@ -13,6 +12,8 @@
 + That we learn more about github and are able to use terminal better - Stephanie
 + That we understand what we are coding and why. - Aminata
 + That we have fun! - everyone
+
+## Individual Goals
 
 Aminata's Goal
 + Learn more about data science, and do what data scientist do.
@@ -46,7 +47,7 @@ Zoe's Goals
 
 ## PROJECT PLAN <a name="projectplan"></a>
 
-##### Part I - Getting Read
+##### Part I - Getting Ready
 * Step 1 - Terminal
 * Step 2 - Git
 * Step 3 - GitHub
