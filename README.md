@@ -73,3 +73,4 @@ Yari's Goals:
 * Step 3 - Practice presentation
 
 ## TODAY WE LEARNED <a name="lessonslearned"></a>
+- How to use Git/GitHub and terminal - Maya
