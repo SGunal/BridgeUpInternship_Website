@@ -73,3 +73,5 @@ Yari's Goals:
 * Step 3 - Practice presentation
 
 ## TODAY WE LEARNED <a name="lessonslearned"></a>
+
+How to remove an upstream - Zoe
