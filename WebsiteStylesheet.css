@@ -1,29 +1,21 @@
 
-body {font-family: "Trebuchet MS", Helvetica, sans-serif; background-color: #262626; color: #dcdcdc; }
+body {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  background-color: #262626;
+  color: #dcdcdc;
+}
 
 /*links*/
-a {color: #4e76b1}
+a {color: #4e76b1
+}
+a:hover {
+  color: #bf1885;
+}
+
 .code{
   color: #5c81b7;
   font-family: "Lucida Console", Monaco, monospace;
   font-size: 14px;
-}
-
-/* Navbar container */
-.navbar {
-  overflow: hidden;
-  background-color: #333;
-  font-family: Arial;
-}
-
-/* Links inside the navbar */
-.navbar a {
-  float: left;
-  font-size: 16px;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
 }
 
 /* The dropdown container */
@@ -46,7 +38,7 @@ a {color: #4e76b1}
 
 /* Add a red background color to navbar links on hover */
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: blue;
 }
 
 /* Dropdown content (hidden by default) */
