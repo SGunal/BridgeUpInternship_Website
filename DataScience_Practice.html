@@ -1,0 +1,92 @@
+ <head>
+  <title>Data Science Practice</title>
+  <link rel="stylesheet" href="WebsiteStylesheet.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+</head>
+
+<body>
+  <div class="dropdown">
+    <button class="dropbtn">
+      <i class="fas fa-bars"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Home</a>
+      <a href="#">About Us</a>
+      <a href="#">What is Datascience?</a>
+      <a href="#">Brown Scholars' Projects</a>
+      <a href="#">Practice</a>
+      <a href="#">Resources</a>
+    </div>
+  </div>
+  <h1>Practice</h1>
+  </div class="instructions">
+  <h3>Here are some instructions to practice working with a data set.</h3>
+  <ol>
+    <li>Choose a data set from the list of csv files below, or go to <a href="https://www.kaggle.com/datasets" target="_blank">kaggle</a> and choose a different one.</li>
+    <li>Download your chosen CSV file.</li>
+    <li>Download the Jupyter notebook that corresponds with your data set. Make sure that both the CSV and Jupyter notebook files are in <strong>the same directory</strong> on your computer</li>
+    <li>Launch the Jupyter notebook (through anaconda). Go through and complete the exercises.</li>
+    <li>If you get stuck, use Google, our resource page, or look at a completed Jupyter notebook (below).</li>
+  </ol>
+
+  <p>Note: You will need a kaggle account to download a data set.
+  You will need python downloaded onto your computer. We recommend
+  <a href="https://www.anaconda.com/download/#macos" target="_blank">anaconda.</a></p>
+  </div>
+  <div class="downloads">
+  <h3>CSV File Downloads</h3>
+    <ul>
+      <li><a href"" download>Avacado Prices</a></li>
+      <li><a href="women-stem.csv" download>College Majors</a></li>
+      <li><a href"" download>NYC Baby Names</a></li>
+      <li><a href"" download>Popular Websites</a></li>
+      <li><a href"" download>State Legislative Election Results</a></li>
+    </ul>
+
+  <h3>Practice Notebooks</h3>
+    <ul>
+      <li><a href"" download>Avacado Prices</a></li>
+      <li><a href="" download>College Majors</a></li>
+      <li><a href"" download>NYC Baby Names</a></li>
+      <li><a href"" download>Popular Websites</a></li>
+      <li><a href"" download>State Legislative Election Results</a></li>
+    </ul>
+
+  <h3>Completed Notebooks</h3>
+    <ul>
+      <li><a href="" download>Avacado Prices</a></li>
+      <li><a href="WomenSTEM_CompletedNotebook.ipnyb" download>College Majors</a></li>
+      <li><a href="" download>NYC Baby Names</a></li>
+      <li><a href="" download>Popular Websites</a></li>
+      <li><a href="" download>State Legislative Election Results</a></li>
+    </ul>
+  </div>
+  <div class="ressources">
+  <h3>Extra Resources</h3>
+    <ul>
+      <li><a href="https://pandas.pydata.org/pandas-docs/stable/tutorials.html" target="_blank">Pandas Tutorials</a></li>
+      <li><a href="https://pandas.pydata.org/pandas-docs/stable/visualization.html" target="_blank">Pandas Graphing</a></li>
+      <li><a href="https://matplotlib.org/contents.html" target="_blank">Matplotlib Documentation</a></li>
+    </ul>
+
+  <h3>Useful Commands</h3>
+    <ul>
+      <li>For Cleaning Data</li>
+        <ul>
+          <li><span class="code">df.info()</span> → Displays general info about dataframe (names of columns, number of entries per column, data type). Use to get a general sense of your data.</li>
+          <li><span class="code">df.isnull().sum()</span> → Lists total number of null values in each column of dataframe</li>
+          <li><span class="code">df["ColumnName"].value_counts()</span> → Lists all unique values and how many times they occur in specific column</li>
+          <li><span class="code">df["ColumnName"].replace(to_replace, value, inplace=True)</span> → Replace one or more values (to_replace) with another value (value)</li>
+          <li><span class="code">df["ColumnName"].unique()</span> → Returns array of all unique values in a specific column. Can be used to see if you need to replace the names of any values.</li>
+        </ul>
+      <li>For Visualizing Data</li>
+        <ul>
+          <li><span class="code">df.groupby(["Column1", "Column2"])[["Column 3"]]</span> → Group by a series of columns.</li>
+          <li><span class="code">df.plot()</span> → Makes plot of dataframe.</li>
+          <li><span class="code">plt.plot(x, y)</span> → Creates plot (using matplotlib, need plt.show() after)</li>
+        </ul>
+    </ul>
+  </div>
+  <h2>Have Fun!</h2>
+
+</body>
