@@ -106,7 +106,22 @@ table{
       background-image: url("https://www.serverpronto.com/spu/wp-content/uploads/code.jpg");
 
   /* Set a specific height */
-      height: 200px;
+      height: 180px;
+
+  /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      color: white;
+}
+
+.parallax-practice {
+  /* The image used */
+      background-image: url("https://www.serverpronto.com/spu/wp-content/uploads/code.jpg");
+
+  /* Set a specific height */
+      height: 380px;
 
   /* Create the parallax scrolling effect */
       background-attachment: fixed;
@@ -128,7 +143,8 @@ iframe{
 }
 
 .code{
-  color: #8d6a9f;
+  /*color: #8d6a9f;*/
+  color: rgba(224, 225, 226, 0.8);
   font-family: "Lucida Console", Monaco, monospace;
   font-size: 14px;
 }
@@ -217,10 +233,25 @@ iframe{
   /*margin-right: 100px;
   padding-bottom: 10px;*/
   position: absolute;
-  top: 60px;
-  right: 50px;
-  width: 25%;
-  height: 40%;
+  top: 230px;
+  right: 35px;
+  width: 190px;
+  height: 190px;
+  background-color: white;
+}
+
+.downloads {
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 25px;
+  height: 240px
+}
+
+.team {
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 25px;
+  background-color: rgba(80, 81, 79, 0.2)
 }
 
 /*
@@ -231,9 +262,9 @@ header {
 }
 */
 
-/*.overview {
-  padding: 5px 100px;
-}*/
+.overview {
+  padding-right: 225px;
+}
 
 .projects{
   width: 300px;
