@@ -283,13 +283,43 @@ header {
   display: inline-grid;
 }
 
-/*
-.spectercell{
-  float: left;
-  bottom: 300px;
-  width: 300px;
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+  grid-gap: 20px;
 }
-.slothsquad{
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+  width: 350px;
+  height: 220px;
+}
+
+.spectercellPhoto{
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/62/Starsinthesky.jpg);
+}
+
+.oceans6Photo {
+  background-image: url(https://static.scientificamerican.com/sciam/cache/file/BCC3BD1E-5DC0-4843-A841706AE575C694_source.jpg?w=590&h=800&39BBF62E-5F96-4C6A-A59590CCF416DA11);
+}
+
+.slothSquadPhoto {
+  background-image: url(https://gifts.worldwildlife.org/gift-center/Images/large-species-photo/large-Three-toed-Sloth-photo.jpg);
+}
+
+.coralCrewPhoto {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Coral_Outcrop_Flynn_Reef.jpg/300px-Coral_Outcrop_Flynn_Reef.jpg);
+}
+
+.conservationPhoto {
+  background-image: url(https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/Conservation16x9.jpg?itok=lSRzyoPj);
+}
+
+/*.slothsquad{
   float: center;
   bottom: 300px;
   width: 300px;
