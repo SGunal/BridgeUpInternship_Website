@@ -18,7 +18,32 @@
     <a href="TFN_ResourcesPage.html">Resources</a>
   </div>
 
+  <div>
+    <img src=""></div>
+    <h1 class="intro" id="welcome"></h1>
+    <p class="intro" id="date"></p>
+     <script>
+       var name;
+       name = prompt("Please enter your name");
+       var welcomeName = "Hello " + name + "!";
+       document.getElementById("welcome").innerHTML = welcomeName;
+
+      // var loadTime = document.createElement('div');
+      // loadTime.textContent = 'You loaded this page on: ' + new Date();
+      // loadTime.style.color = '#c6296f';
+      // document.body.appendChild(loadTime);
+
+       var d = new Date();
+       document.getElementById("date").innerHTML = d.toString();
+       document.getElementById("date").style.color = "#c6296f";
+    </script>
+<div class="intro">
+<h1> On this website you will learn some basic concepts of data science. Have fun!</h1>
+</div>
+     </script>
+<!--
   <div class = "intro">
     <h1> On this website you will learn some basic concepts of data science. Have fun!</h1>
   </div>
+-->
 </body>
