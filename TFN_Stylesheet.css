@@ -143,12 +143,8 @@ iframe{
 }
 
 .code{
-<<<<<<< HEAD
-  color: black;
-=======
   /*color: #8d6a9f;*/
   color: rgba(224, 225, 226, 0.8);
->>>>>>> b1b30ccbcec4e948655f5e8a4759f4cb1048681f
   font-family: "Lucida Console", Monaco, monospace;
   font-size: 14px;
 }
@@ -231,11 +227,7 @@ iframe{
   background-color: #a582b7;
 }
 
-<<<<<<< HEAD
-.datascience img{
-=======
 .venn-diagram {
->>>>>>> b1b30ccbcec4e948655f5e8a4759f4cb1048681f
   display: inline-block;
   float: right;
   /*margin-right: 100px;
