@@ -32,27 +32,35 @@
     </ol>
 
     <p>Note: You will need a kaggle account to download a data set.
-      You will need python downloaded onto your computer. We recommend
+      You will need Python downloaded onto your computer. We recommend
       <a href="https://www.anaconda.com/download/#macos" target="_blank">anaconda.</a></p>
   </div>
 
   <div class="downloads">
     <h3>CSV File Downloads</h3>
       <ul>
+        <li><a href="JupyterNB+CSV/all-ages.csv" download>All College Majors</a></li>
         <li><a href="JupyterNB+CSV/avocado.csv" download>Avacado Prices</a></li>
-        <li><a href="JupyterNB+CSV/women-stem.csv" download>College Majors</a></li>
-        <li><a href"" download>NYC Baby Names</a></li>
-        <li><a href"" download>Popular Websites</a></li>
-        <li><a href"" download>State Legislative Election Results</a></li>
+        <li><a href="JupyterNB+CSV/babynames.csv" download>NYC Baby Names</a></li>
+        <li><a href="JupyterNB+CSV/popularWebsites.csv" download>Popular Websites</a></li>
+        <li><a href="JupyterNB+CSV/stateElections.csv" download>State Legislative Election Results</a></li>
+        <li><a href="JupyterNB+CSV/women-stem.csv" download>Women STEM Majors</a></li>
       </ul>
 
-    <h3>Practice Notebooks</h3>
+    <h3>Jupyter Notebooks</h3>
       <ul>
+        <li>Located in <a href="https://github.com/SGunal/JupyterNotebooks" target="_blank">this Github repository</a></li>
+        <ul>
+          <li>Click the green 'Clone or Download' button on the right hand side.</li>
+          <li>Download as a ZIP file or copy the link and clone the repository to your computer.</li>
+        </ul>
+        <!--
         <li><a href="JupyterNB+CSV/AvacadoHow-To.ipynb" download>Avacado Prices</a></li>
         <li><a href="JupyterNB+CSV/Majors_Women_Practice.ipynb" download>College Majors</a></li>
         <li><a href"" download>NYC Baby Names</a></li>
         <li><a href"" download>Popular Websites</a></li>
         <li><a href"" download>State Legislative Election Results</a></li>
+
       </ul>
 
     <h3>Completed Notebooks</h3>
@@ -63,6 +71,7 @@
         <li><a href="" download>Popular Websites</a></li>
         <li><a href="" download>State Legislative Election Results</a></li>
       </ul>
+    -->
   </div>
 
   <div class="resources">
@@ -77,17 +86,17 @@
       <ul>
         <li>For Cleaning Data</li>
           <ul>
-            <li><span class="code">df.info()</span> → Displays general info about dataframe (names of columns, number of entries per column, data type). Use to get a general sense of your data.</li>
-            <li><span class="code">df.isnull().sum()</span> → Lists total number of null values in each column of dataframe</li>
-            <li><span class="code">df["ColumnName"].value_counts()</span> → Lists all unique values and how many times they occur in specific column</li>
-            <li><span class="code">df["ColumnName"].replace(to_replace, value, inplace=True)</span> → Replace one or more values (to_replace) with another value (value)</li>
-            <li><span class="code">df["ColumnName"].unique()</span> → Returns array of all unique values in a specific column. Can be used to see if you need to replace the names of any values.</li>
+            <li><span class="code">df.info()</span> <i class="fas fa-arrow-right"></i> Displays general info about dataframe (names of columns, number of entries per column, data type). Use to get a general sense of your data.</li>
+            <li><span class="code">df.isnull().sum()</span> <i class="fas fa-arrow-right"></i> Lists total number of null values in each column of dataframe</li>
+            <li><span class="code">df["ColumnName"].value_counts()</span> <i class="fas fa-arrow-right"></i> Lists all unique values and how many times they occur in specific column</li>
+            <li><span class="code">df["ColumnName"].replace(to_replace, value, inplace=True)</span> <i class="fas fa-arrow-right"></i> Replace one or more values (to_replace) with another value (value)</li>
+            <li><span class="code">df["ColumnName"].unique()</span> <i class="fas fa-arrow-right"></i> Returns array of all unique values in a specific column. Can be used to see if you need to replace the names of any values.</li>
           </ul>
         <li>For Visualizing Data</li>
           <ul>
-            <li><span class="code">df.groupby(["Column1", "Column2"])[["Column 3"]]</span> → Group by a series of columns.</li>
-            <li><span class="code">df.plot()</span> → Makes plot of dataframe.</li>
-            <li><span class="code">plt.plot(x, y)</span> → Creates plot (using matplotlib, need plt.show() after)</li>
+            <li><span class="code">df.groupby(["Column1", "Column2"])[["Column 3"]]</span> <i class="fas fa-arrow-right"></i> Group by a series of columns.</li>
+            <li><span class="code">df.plot()</span> <i class="fas fa-arrow-right"></i> Makes plot of dataframe.</li>
+            <li><span class="code">plt.plot(x, y)</span> <i class="fas fa-arrow-right"></i> Creates plot (using matplotlib, need plt.show() after)</li>
           </ul>
       </ul>
   </div>
