@@ -84,8 +84,9 @@ a:hover {
 table{
   border-style:solid;
   border-width:6px;
-  margin-left: 60px;
+  margin-left: 5%;
   border-color: #8d6a9f;
+  width: 45%;
 }
 
 .parallax {
@@ -137,8 +138,8 @@ table{
 /*for glossary, resources page*/
 iframe{
  float: right;
- height:450px;
- width:500px;
+ height:435px;
+ width:42%;
  margin-right: 60px;
  margin-top: 10px;
  border-style:solid;
@@ -277,35 +278,3 @@ header {
 .groups img{
   display: inline-grid;
 }
-
-/*
-.spectercell{
-  float: left;
-  bottom: 300px;
-  width: 300px;
-}
-.slothsquad{
-  float: center;
-  bottom: 300px;
-  width: 300px;
-}
-.coralcrew{
-  float: right;
-  bottom: 300px;
-  width: 300px;
-}
-.oceansix{
-  float: left;
-  bottom: 100px;
-  width: 300px;
-}
-.conservation{
-  float: center;
-  bottom: 100px;
-  width: 300px;
-}
-.titanic{
-  float: right;
-  bottom: 100px;
-}
-*/
