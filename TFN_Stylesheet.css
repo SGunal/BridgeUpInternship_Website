@@ -235,10 +235,10 @@ iframe{
   /*margin-right: 100px;
   padding-bottom: 10px;*/
   position: absolute;
-  top: 38%;
-  right: 2.5%;
-  width: 19%;
-  height: 38%;
+  top: 240px;
+  right: 30px;
+  width: 235px;
+  height: 235px;
   background-color: white;
 }
 
