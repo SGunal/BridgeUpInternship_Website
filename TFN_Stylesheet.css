@@ -20,7 +20,7 @@ body {
   margin: 20px;
   font-family: "Nunito", sans-serif;
   text-align: center;
-  font-size: 72px;
+  font-size: 6vw /*72px*/;
   font-weight: bold;
   color: rgb(255, 255, 255);
   background-color: rgba(80, 81, 79, 0.8);
@@ -36,14 +36,14 @@ h1{
 }
 
 h2{
-  font-size:35px;
+  font-size: 35px;
   color: #c6296f;
   margin-left: 20px;
 }
 
 h3{
   color: #c6296f;
-  margin: 3% 80px 1% 80px;
+  padding: 15px 80px 25px 80px;
 }
 
 h4{
@@ -125,8 +125,12 @@ table{
       background-image: url("https://www.serverpronto.com/spu/wp-content/uploads/code.jpg");
 
   /* Set a specific height */
+<<<<<<< HEAD
       height: 380px;
       margin: 0px;
+=======
+      height: 420px;
+>>>>>>> 600af38f9e3672109242b648b5d70826e0808b6a
 
   /* Create the parallax scrolling effect */
       background-attachment: fixed;
@@ -141,7 +145,9 @@ iframe{
  height:435px;
  width:42%;
  margin-right: 60px;
+ margin-left: 10px;
  margin-top: 10px;
+ margin-bottom: 10px;
  border-style:solid;
  border-width:6px;
  border-color: #8d6a9f;
@@ -238,10 +244,10 @@ iframe{
   /*margin-right: 100px;
   padding-bottom: 10px;*/
   position: absolute;
-  top: 230px;
-  right: 35px;
-  width: 190px;
-  height: 190px;
+  top: 38%;
+  right: 2.5%;
+  width: 19%;
+  height: 38%;
   background-color: white;
 }
 
@@ -271,6 +277,15 @@ header {
   padding-right: 225px;
 }
 
+.history {
+  background-color: rgba(80, 81, 79, 0.3);
+  margin-top: 20px;
+}
+
+.advantages {
+  margin-top: 80px;
+}
+
 .projects{
   width: 300px;
 }
@@ -278,3 +293,62 @@ header {
 .groups img{
   display: inline-grid;
 }
+<<<<<<< HEAD
+=======
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 30vw 30vw 30vw;
+  padding: 10px;
+  grid-gap: 3vw;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+  width: 350px;
+  height: 220px;
+}
+
+.projectPhoto {
+  width: 350px;
+  height: 220px;
+}
+
+/*.specter-cell {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.oceans-six {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.sloth-squad {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.coral-crew {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.conservation {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}*/
+>>>>>>> 600af38f9e3672109242b648b5d70826e0808b6a
