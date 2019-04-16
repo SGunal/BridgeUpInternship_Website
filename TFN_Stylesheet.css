@@ -234,9 +234,9 @@ iframe{
   float: right;
   /*margin-right: 100px;
   padding-bottom: 10px;*/
-  position: absolute;
-  top: 240px;
-  right: 30px;
+  position: static;
+  /*top: 38vw;
+  right: 2.5vw;*/
   width: 235px;
   height: 235px;
   background-color: white;
