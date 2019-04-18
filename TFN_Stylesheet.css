@@ -1,32 +1,50 @@
-/*
-purple:#8d6a9f
-blue: #75B9BE
-dark bluegreen: #527775
-yellow: #dda448
-red: #bb342f
-pink: #c6296f
-*/
-
-body {
-  font-family: "Trebuchet MS", Helvetica, sans-serif;
-  background-color: white;
-  color:  #4D8A8E;
-  margin: 20px 20px;
-}
-
 .welcome {
   height: 100%;
   margin: 20px;
   font-family: "Nunito", sans-serif;
   text-align: center;
-  font-size: 6vw /*72px*/;
+  font-size: 72px;
   font-weight: bold;
   color: rgb(255, 255, 255);
-  background-color: rgba(80, 81, 79, 0.8);
+  background-color: rgba(80, 81, 79, .8);
   text-shadow: 2px 2px rgba(0, 0, 0, 0.3);
 }
 
-.intro {
+body, html {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  background-color: white;
+  color:  #4D8A8E;
+  margin: 20px 20px;
+  height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.bg-image {
+  background-image: url("https://newsroom.siliconslopes.com/content/images/2018/10/code.jpg");
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-text {
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.2);
+  color: white;
+  font-weight: bold;
+  /*border: 3px solid #f1f1f1;*/
+  position: absolute;
+  top: 32%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
   text-align: center;
 }
 
@@ -34,14 +52,22 @@ h1{
   color: rgba(80, 81, 79, 0.8);
 }
 
+.title{
+  color: rgb(219, 219, 219);
+  height: 100%;
+  font-size: 72px;
+  text-align: center;
+  display: inline-block;
+}
+
 h2{
-  font-size: 35px;
+  font-size:35px;
   color: #c6296f;
 }
 
 h3{
   color: #c6296f;
-  padding: 15px 80px 25px 80px;
+  margin: 3% 80px 1% 80px;
 }
 
 h4{
@@ -106,22 +132,7 @@ table{
       background-image: url("https://www.serverpronto.com/spu/wp-content/uploads/code.jpg");
 
   /* Set a specific height */
-      height: 180px;
-
-  /* Create the parallax scrolling effect */
-      background-attachment: fixed;
-      background-position: center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      color: white;
-}
-
-.parallax-practice {
-  /* The image used */
-      background-image: url("https://www.serverpronto.com/spu/wp-content/uploads/code.jpg");
-
-  /* Set a specific height */
-      height: 420px;
+      height: 200px;
 
   /* Create the parallax scrolling effect */
       background-attachment: fixed;
@@ -136,17 +147,14 @@ iframe{
  height:450px;
  width:500px;
  margin-right: 60px;
- margin-left: 10px;
  margin-top: 10px;
- margin-bottom: 10px;
  border-style:solid;
  border-width:6px;
  border-color: #8d6a9f;
 }
 
 .code{
-  /*color: #8d6a9f;*/
-  color: rgba(224, 225, 226, 0.8);
+  color: #8d6a9f;
   font-family: "Lucida Console", Monaco, monospace;
   font-size: 14px;
 }
@@ -235,25 +243,10 @@ iframe{
   /*margin-right: 100px;
   padding-bottom: 10px;*/
   position: absolute;
-  top: 38%;
-  right: 2.5%;
-  width: 19%;
-  height: 38%;
-  background-color: white;
-}
-
-.downloads {
-  border-style: solid;
-  border-width: 5px;
-  border-radius: 25px;
-  height: 240px
-}
-
-.team {
-  border-style: solid;
-  border-width: 5px;
-  border-radius: 25px;
-  background-color: rgba(80, 81, 79, 0.2)
+  top: 60px;
+  right: 50px;
+  width: 25%;
+  height: 40%;
 }
 
 /*
@@ -264,18 +257,9 @@ header {
 }
 */
 
-.overview {
-  padding-right: 225px;
-}
-
-.history {
-  background-color: rgba(80, 81, 79, 0.3);
-  margin-top: 20px;
-}
-
-.advantages {
-  margin-top: 80px;
-}
+/*.overview {
+  padding: 5px 100px;
+}*/
 
 .projects{
   width: 300px;
@@ -285,58 +269,34 @@ header {
   display: inline-grid;
 }
 
-.grid-container {
-  display: grid;
-  grid-template-columns: 30vw 30vw 30vw;
-  padding: 10px;
-  grid-gap: 3vw;
+/*
+.spectercell{
+  float: left;
+  bottom: 300px;
+  width: 300px;
 }
-
-.grid-item {
-  background-color: rgba(255, 255, 255, 0.8);
-  padding: 20px;
-  font-size: 20px;
-  text-align: center;
-  width: 350px;
-  height: 220px;
+.slothsquad{
+  float: center;
+  bottom: 300px;
+  width: 300px;
 }
-
-.projectPhoto {
-  width: 350px;
-  height: 220px;
+.coralcrew{
+  float: right;
+  bottom: 300px;
+  width: 300px;
 }
-
-/*.specter-cell {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+.oceansix{
+  float: left;
+  bottom: 100px;
+  width: 300px;
 }
-
-.oceans-six {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+.conservation{
+  float: center;
+  bottom: 100px;
+  width: 300px;
 }
-
-.sloth-squad {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+.titanic{
+  float: right;
+  bottom: 100px;
 }
-
-.coral-crew {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-.conservation {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}*/
+*/
