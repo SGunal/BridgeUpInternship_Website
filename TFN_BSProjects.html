@@ -1,90 +1,61 @@
 <!DOCTYPE html>
 <html>
- <head>
-  <title>Data Science Practice</title>
-  <link rel="stylesheet" href="TFN_Stylesheet.css">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+<head>
+	<title>Brown Scholars' Projects</title>
+	<link rel="stylesheet" href="TFN_Stylesheet.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
 </head>
-
 <body>
-  <div class="dropdown">
-    <button class="dropbtn">
-      <i class="fas fa-bars"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="TFN_WelcomePage.html">Home</a>
-      <a href="TFN_DataSciencePage.html">What is Data Science?</a>
-      <a href="TFN_PracticePage.html">Practice</a>
-      <a href="TFN_AboutUsPage.html">About Us</a>
-      <a href="TFN_BSProjects.html">Brown Scholars' Projects</a>
-      <a href="TFN_ResourcesPage.html">Resources</a>
-    </div>
-  </div>
+	<div class="dropdown">
+		<button class="dropbtn">
+			<i class="fas fa-bars"></i>
+		</button>
+		<div class="dropdown-content">
+			<a href="TFN_WelcomePage.html">Home</a>
+	    <a href="TFN_DataSciencePage.html">What is Data Science?</a>
+	    <a href="TFN_PracticePage.html">Practice</a>
+	    <a href="TFN_AboutUsPage.html">About Us</a>
+	    <a href="TFN_BSProjects.html">Brown Scholars' Projects</a>
+	    <a href="TFN_ResourcesPage.html">Resources</a>
+		</div>
+	</div>
 
-  <h1>Practice</h1>
+<div class = "groups">
+<h1>Brown Scholars Projects</h1>
+<p class="projects"> On this page you can see more information about the Brown Scholars projects. Click on the pictures below to learn about each group's process, functions used, and results. </p>
 
-  <div class = "instructions">
-    <h3>Here are some instructions to practice working with a data set.</h3>
-    <ol>
-      <li>Choose a data set from the list of CSV files below, or go to <a href="https://www.kaggle.com/datasets" target="_blank">kaggle</a> and choose a different one.</li>
-      <li>Download your chosen CSV file.</li>
-      <li>Download the Jupyter notebook that corresponds with your data set. Make sure that both the CSV and Jupyter notebook files are in <strong>the same directory</strong> on your computer</li>
-      <li>Launch the Jupyter notebook (through anaconda). Go through and complete the exercises.</li>
-      <li>If you get stuck, use Google, our resource page, or look at a completed Jupyter notebook (below).</li>
-    </ol>
-
-    <p>Note: You will need a kaggle account to download a data set.
-      You will need Python downloaded onto your computer. We recommend <a href="https://www.anaconda.com/download/#macos" target="_blank">anaconda.</a></p>
-  </div>
-
-  <div class="downloads">
-    <h3>CSV File Downloads</h3>
-      <ul>
-        <li><a href="JupyterNB+CSV/all-ages.csv" download>All College Majors</a></li>
-        <li><a href="JupyterNB+CSV/avocado.csv" download>Avacado Prices</a></li>
-        <li><a href="JupyterNB+CSV/babynames.csv" download>NYC Baby Names</a></li>
-        <li><a href="JupyterNB+CSV/popularWebsites.csv" download>Popular Websites</a></li>
-        <li><a href="JupyterNB+CSV/stateElections.csv" download>State Legislative Election Results</a></li>
-        <li><a href="JupyterNB+CSV/women-stem.csv" download>Women STEM Majors</a></li>
-      </ul>
-    <h3>Jupyter Notebooks</h3>
-      <ul>
-        <li>Located in <a href="https://github.com/SGunal/JupyterNotebooks" target="_blank">this Github repository</a></li>
-        <ul>
-          <li>Click the green 'Clone or Download' button on the right hand side.</li>
-          <li>Download as a ZIP file or copy the link and clone the repository to your computer.</li>
-        </ul>
-  </div>
-
-  <div class="resources">
-    <h3>Extra Resources</h3>
-      <ul>
-        <li><a href="https://pandas.pydata.org/pandas-docs/stable/tutorials.html" target="_blank">Pandas Tutorials</a></li>
-        <li><a href="https://pandas.pydata.org/pandas-docs/stable/visualization.html" target="_blank">Pandas Graphing</a></li>
-        <li><a href="https://matplotlib.org/contents.html" target="_blank">Matplotlib Documentation</a></li>
-      </ul>
-  </div>
-
-  <div class = "parallax-practice">
-    <h3>Useful Commands</h3>
-      <ul>
-        <li>For Cleaning Data</li>
-          <ul>
-            <li><span class="code">df.info()</span> <i class="fas fa-arrow-right"></i> Displays general info about dataframe (names of columns, number of entries per column, data type). Use to get a general sense of your data.</li>
-            <li><span class="code">df.isnull().sum()</span> <i class="fas fa-arrow-right"></i> Lists total number of null values in each column of dataframe</li>
-            <li><span class="code">df["ColumnName"].value_counts()</span> <i class="fas fa-arrow-right"></i> Lists all unique values and how many times they occur in specific column</li>
-            <li><span class="code">df["ColumnName"].replace(to_replace, value, inplace=True)</span> <i class="fas fa-arrow-right"></i> Replace one or more values (to_replace) with another value (value)</li>
-            <li><span class="code">df["ColumnName"].unique()</span> <i class="fas fa-arrow-right"></i> Returns array of all unique values in a specific column. Can be used to see if you need to replace the names of any values.</li>
-          </ul>
-        <li>For Visualizing Data</li>
-          <ul>
-            <li><span class="code">df.groupby(["Column1", "Column2"])[["Column 3"]]</span> <i class="fas fa-arrow-right"></i> Group by a series of columns.</li>
-            <li><span class="code">df.plot()</span> <i class="fas fa-arrow-right"></i> Makes plot of dataframe.</li>
-            <li><span class="code">plt.plot(x, y)</span> <i class="fas fa-arrow-right"></i> Creates plot (using matplotlib, need plt.show() after)</li>
-          </ul>
-      </ul>
-  </div>
-
-  <h2>Have Fun!</h2>
-
+<div class = grid-container>
+	<!--<div class="container">
+  <img src="img_snow_wide.jpg" alt="Snow" style="width:100%;">
+  <div class="centered">Centered</div>
+</div>-->
+	<div class="grid-item">
+		<a href = "spectrecell.html"><img class = "projectPhoto" src = "https://www.brownspaceman.com/wp-content/uploads/2013/09/brown-dwarf.jpg" alt = "Spectre Cell">
+		<div class = "photo-text specter-cell" >Spectre Cell</div>
+	</a>
+	</div>
+  <div class="grid-item">
+		<a href = "Oceans Six.html"><img class = "projectPhoto" src = "https://www.sott.net/image/s7/148679/full/beb152ec_9861_47c6_ab42_32332b.jpg" alt = "Ocean's Six">
+		<div class = "photo-text oceans-six">Ocean's Six</div>
+	</a>
+	</div>
+  <div class="grid-item">
+		<a href = "Sloth Squad.html"><img class = "projectPhoto" src = "https://gifts.worldwildlife.org/gift-center/Images/large-species-photo/large-Three-toed-Sloth-photo.jpg" alt = "Sloth Squad">
+		<div class = "photo-text sloth-squad">Sloth Squad</div>
+	</a>
+	</div>
+  <div class="grid-item">
+		<a href = "Coral Crew.html"><img class = "projectPhoto" src = "https://media.mnn.com/assets/images/2018/07/RedGorgoniaParamuriceaClavataSeaFansAeolianIslands.jpg.990x0_q80_crop-smart.jpg" alt = "Coral Crew">
+		<div class = "photo-text coral-crew">Coral Crew</div>
+	</a>
+	</div>
+  <div class="grid-item">
+		<a href = "ConseRvation.html"><img class = "projectPhoto" src = "https://natgeo.imgix.net/videos/thumbnails/video-WT-solomonislands.jpg?auto=compress,format&w=1600&h=900&fit=crop" alt = "Conservation">
+		<div class = "photo-text conservation">ConsRvation</div>
+	</a>
+	</div>
+</div>
 </body>
+</html>
+
+<!--https://upload.wikimedia.org/wikipedia/commons/6/62/Starsinthesky.jpg-->
