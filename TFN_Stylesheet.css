@@ -254,14 +254,49 @@ iframe{
   float: right;
   /*margin-right: 100px;
   padding-bottom: 10px;*/
-  position: absolute;
-  top: 60px;
-  right: 50px;
-  width: 25%;
-  height: 40%;
+  position: static;
+  /*top: 38vw;
+  right: 2.5vw;*/
+  width: 235px;
+  height: 235px;
+  background-color: white;
 }
 
+<<<<<<< HEAD
 /*formatting pics on projects page*/
+=======
+/*
+header {
+  background-color: rgba(20, 150, 175, 0.2);
+  margin-right: 840px;
+  margin-left: 40px;
+}
+*/
+
+/*.overview {
+  padding: 5px 100px;
+}*/
+
+.downloads {
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 25px;
+}
+
+.overview {
+  padding-right: 225px;
+}
+
+.history {
+  background-color: rgba(80, 81, 79, 0.3);
+  margin-top: 20px;
+}
+
+.advantages {
+  margin-top: 80px;
+}
+
+>>>>>>> 1b02b156f68bbb9be4d2d26f9f66b32eaad20399
 .projects{
   width: 300px;
 }
@@ -269,3 +304,59 @@ iframe{
 .groups img{
   display: inline-grid;
 }
+<<<<<<< HEAD
+=======
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+  grid-gap: 50px;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+  width: 350px;
+  height: 220px;
+}
+
+.projectPhoto {
+  width: 350px;
+  height: 220px;
+}
+
+/*
+.spectercell{
+  float: left;
+  bottom: 300px;
+  width: 300px;
+}
+.slothsquad{
+  float: center;
+  bottom: 300px;
+  width: 300px;
+}
+.coralcrew{
+  float: right;
+  bottom: 300px;
+  width: 300px;
+}
+.oceansix{
+  float: left;
+  bottom: 100px;
+  width: 300px;
+}
+.conservation{
+  float: center;
+  bottom: 100px;
+  width: 300px;
+}
+.titanic{
+  float: right;
+  bottom: 100px;
+}
+*/
+>>>>>>> 1b02b156f68bbb9be4d2d26f9f66b32eaad20399
