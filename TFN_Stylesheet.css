@@ -1,3 +1,4 @@
+/*welcome page*/
 .welcome {
   height: 100%;
   margin: 20px;
@@ -22,6 +23,7 @@ body, html {
   box-sizing: border-box;
 }
 
+/*background image for welcome page*/
 .bg-image {
   background-image: url("https://newsroom.siliconslopes.com/content/images/2018/10/code.jpg");
   filter: blur(2px);
@@ -32,6 +34,7 @@ body, html {
   background-size: cover;
 }
 
+/*background text for welcome page*/
 .bg-text {
   background-color: rgb(0,0,0);
   background-color: rgba(0,0,0, 0.2);
@@ -48,16 +51,18 @@ body, html {
   text-align: center;
 }
 
-h1{
-  color: rgba(80, 81, 79, 0.8);
-}
-
+/*title for welcome page*/
 .title{
   color: rgb(219, 219, 219);
   height: 100%;
   font-size: 72px;
   text-align: center;
   display: inline-block;
+}
+
+/*font*/
+h1{
+  color: rgba(80, 81, 79, 0.8);
 }
 
 h2{
@@ -92,6 +97,15 @@ li{
 strong{
   color: #8d6a9f;
 }
+
+/*formatting code text on practice page*/
+.code{
+  color: #8d6a9f;
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 14px;
+}
+
+
 /*links*/
 a {
   color: #8d6a9f;
@@ -112,6 +126,7 @@ table{
   border-color: #8d6a9f;
 }
 
+/*parallax for resources page*/
 .parallax {
 /* The image used */
     background-image: url("https://cdn-images-1.medium.com/max/1600/1*93CVLqnQESmvfOhzvYUgQw.png");
@@ -127,6 +142,7 @@ table{
     color:black;
 }
 
+/*parallax for data science page*/
 .parallax-data {
   /* The image used */
       background-image: url("https://www.serverpronto.com/spu/wp-content/uploads/code.jpg");
@@ -141,6 +157,7 @@ table{
       background-size: cover;
       color: white;
 }
+
 /*for glossary, resources page*/
 iframe{
  float: right;
@@ -151,12 +168,6 @@ iframe{
  border-style:solid;
  border-width:6px;
  border-color: #8d6a9f;
-}
-
-.code{
-  color: #8d6a9f;
-  font-family: "Lucida Console", Monaco, monospace;
-  font-size: 14px;
 }
 
 /* The dropdown container */
@@ -177,7 +188,7 @@ iframe{
   margin: 0; /* Important for vertical align on mobile phones */
 }
 
-/* Add a yellow background color to navbar links on hover */
+/* Add a purple background color to navbar links on hover */
 .navbar a:hover, .dropdown:hover .dropbtn {
   background-color: #8d6a9f;
 }
@@ -237,6 +248,7 @@ iframe{
   background-color: #a582b7;
 }
 
+/*formatting pic of venn diagram on data science page*/
 .venn-diagram {
   display: inline-block;
   float: right;
@@ -249,18 +261,7 @@ iframe{
   height: 40%;
 }
 
-/*
-header {
-  background-color: rgba(20, 150, 175, 0.2);
-  margin-right: 840px;
-  margin-left: 40px;
-}
-*/
-
-/*.overview {
-  padding: 5px 100px;
-}*/
-
+/*formatting pics on projects page*/
 .projects{
   width: 300px;
 }
@@ -268,35 +269,3 @@ header {
 .groups img{
   display: inline-grid;
 }
-
-/*
-.spectercell{
-  float: left;
-  bottom: 300px;
-  width: 300px;
-}
-.slothsquad{
-  float: center;
-  bottom: 300px;
-  width: 300px;
-}
-.coralcrew{
-  float: right;
-  bottom: 300px;
-  width: 300px;
-}
-.oceansix{
-  float: left;
-  bottom: 100px;
-  width: 300px;
-}
-.conservation{
-  float: center;
-  bottom: 100px;
-  width: 300px;
-}
-.titanic{
-  float: right;
-  bottom: 100px;
-}
-*/
