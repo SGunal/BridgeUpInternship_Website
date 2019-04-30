@@ -242,11 +242,12 @@ iframe{
   float: right;
   /*margin-right: 100px;
   padding-bottom: 10px;*/
-  position: absolute;
-  top: 60px;
-  right: 50px;
-  width: 25%;
-  height: 40%;
+  position: static;
+  /*top: 38vw;
+  right: 2.5vw;*/
+  width: 235px;
+  height: 235px;
+  background-color: white;
 }
 
 /*
@@ -261,12 +262,46 @@ header {
   padding: 5px 100px;
 }*/
 
+overview {
+  padding-right: 225px;
+}
+
+.history {
+  background-color: rgba(80, 81, 79, 0.3);
+  margin-top: 20px;
+}
+
+.advantages {
+  margin-top: 80px;
+}
+
 .projects{
   width: 300px;
 }
 
 .groups img{
   display: inline-grid;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+  grid-gap: 50px;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+  width: 350px;
+  height: 220px;
+}
+
+.projectPhoto {
+  width: 350px;
+  height: 220px;
 }
 
 /*
