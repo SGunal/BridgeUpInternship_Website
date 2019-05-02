@@ -119,10 +119,13 @@ a:hover {
   height:90px;
 }
 
+/*table on resources page*/
 table{
+  height: 71%;
+  width: 45%;
+  margin-left: 4%;
   border-style:solid;
   border-width:6px;
-  margin-left: 60px;
   border-color: #8d6a9f;
 }
 
@@ -132,7 +135,7 @@ table{
     background-image: url("https://cdn-images-1.medium.com/max/1600/1*93CVLqnQESmvfOhzvYUgQw.png");
 
 /* Set a specific height */
-    height: 300px;
+    height: auto;
 
 /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -161,10 +164,11 @@ table{
 /*for glossary, resources page*/
 iframe{
  float: right;
- height:450px;
- width:500px;
- margin-right: 60px;
- margin-top: 10px;
+ height: 71%;
+ width: 45%;
+ min-width: 300px;
+ margin-right: 4%;
+ margin-top: 18px;
  border-style:solid;
  border-width:6px;
  border-color: #8d6a9f;
@@ -262,9 +266,6 @@ iframe{
   background-color: white;
 }
 
-<<<<<<< HEAD
-/*formatting pics on projects page*/
-=======
 /*
 header {
   background-color: rgba(20, 150, 175, 0.2);
@@ -296,7 +297,6 @@ header {
   margin-top: 80px;
 }
 
->>>>>>> 1b02b156f68bbb9be4d2d26f9f66b32eaad20399
 .projects{
   width: 300px;
 }
@@ -304,8 +304,6 @@ header {
 .groups img{
   display: inline-grid;
 }
-<<<<<<< HEAD
-=======
 
 .grid-container {
   display: grid;
@@ -359,4 +357,3 @@ header {
   bottom: 100px;
 }
 */
->>>>>>> 1b02b156f68bbb9be4d2d26f9f66b32eaad20399
