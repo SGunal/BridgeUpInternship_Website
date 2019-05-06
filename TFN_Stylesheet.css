@@ -296,7 +296,6 @@ header {
   margin-top: 80px;
 }
 
->>>>>>> 1b02b156f68bbb9be4d2d26f9f66b32eaad20399
 .projects{
   width: 300px;
 }
@@ -304,8 +303,6 @@ header {
 .groups img{
   display: inline-grid;
 }
-<<<<<<< HEAD
-=======
 
 .grid-container {
   display: grid;
@@ -326,6 +323,31 @@ header {
 .projectPhoto {
   width: 350px;
   height: 220px;
+}
+
+.grid-container-about {
+  display: grid;
+  grid-template-columns: 380px 380px 380px;
+  padding: 10px;
+  grid-gap: 20px;
+}
+
+.grid-item-about {
+  background-color: rgba(255, 255, 255, 0.8);
+  /*padding: 20px;*/
+  font-size: 20px;
+  text-align: center;
+}
+
+.profile-pic {
+  width: 200px;
+  height: 250px;
+}
+
+.paragraph {
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 /*
