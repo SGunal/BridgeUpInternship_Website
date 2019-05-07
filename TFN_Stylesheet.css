@@ -1,3 +1,4 @@
+/*welcome page*/
 .welcome {
   height: 100%;
   margin: 20px;
@@ -22,6 +23,7 @@ body, html {
   box-sizing: border-box;
 }
 
+/*background image for welcome page*/
 .bg-image {
   background-image: url("https://newsroom.siliconslopes.com/content/images/2018/10/code.jpg");
   filter: blur(2px);
@@ -32,8 +34,10 @@ body, html {
   background-size: cover;
 }
 
+/*background text for welcome page*/
 .bg-text {
-  background-color: transparent;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.2);
   color: white;
   font-weight: bold;
   /*border: 3px solid #f1f1f1;*/
@@ -47,16 +51,18 @@ body, html {
   text-align: center;
 }
 
-h1{
-  color: rgba(80, 81, 79, 0.8);
-}
-
-h1.title{
-  color: white;
+/*title for welcome page*/
+.title{
+  color: rgb(219, 219, 219);
   height: 100%;
-  font-size: 64px;
+  font-size: 72px;
   text-align: center;
   display: inline-block;
+}
+
+/*font*/
+h1{
+  color: rgba(80, 81, 79, 0.8);
 }
 
 h2{
@@ -80,10 +86,6 @@ p{
   font-size: 16px;
 }
 
-p.subtitle{
-  font-size: 36px;
-}
-
 ul {
   font-size: 16px;
 }
@@ -95,9 +97,21 @@ li{
 strong{
   color: #8d6a9f;
 }
-/*links*/
-a{
+
+/*formatting code text on practice page*/
+.code{
   color: #8d6a9f;
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 14px;
+}
+
+
+/*links*/
+a {
+  color: #8d6a9f;
+}
+a:hover {
+  color: #dda448;
 }
 
 .photo{
@@ -105,19 +119,23 @@ a{
   height:90px;
 }
 
+/*table on resources page*/
 table{
+  height: 71%;
+  width: 45%;
+  margin-left: 4%;
   border-style:solid;
   border-width:6px;
-  margin-left: 60px;
   border-color: #8d6a9f;
 }
 
+/*parallax for resources page*/
 .parallax {
 /* The image used */
     background-image: url("https://cdn-images-1.medium.com/max/1600/1*93CVLqnQESmvfOhzvYUgQw.png");
 
-/* Set a specific height */
-    height: 300px;
+/* Set height */
+    height: auto;
 
 /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -127,12 +145,13 @@ table{
     color:black;
 }
 
+/*parallax for data science page*/
 .parallax-data {
   /* The image used */
       background-image: url("https://www.serverpronto.com/spu/wp-content/uploads/code.jpg");
 
-  /* Set a specific height */
-      height: 200px;
+  /* Set height */
+      height: auto;
 
   /* Create the parallax scrolling effect */
       background-attachment: fixed;
@@ -141,22 +160,18 @@ table{
       background-size: cover;
       color: white;
 }
+
 /*for glossary, resources page*/
 iframe{
  float: right;
- height:450px;
- width:500px;
- margin-right: 60px;
- margin-top: 10px;
+ height: 71%;
+ width: 45%;
+ min-width: 300px;
+ margin-right: 4%;
+ margin-top: 18px;
  border-style:solid;
  border-width:6px;
  border-color: #8d6a9f;
-}
-
-.code{
-  color: #8d6a9f;
-  font-family: "Lucida Console", Monaco, monospace;
-  font-size: 14px;
 }
 
 /* The dropdown container */
@@ -177,7 +192,7 @@ iframe{
   margin: 0; /* Important for vertical align on mobile phones */
 }
 
-/* Add a yellow background color to navbar links on hover */
+/* Add a purple background color to navbar links on hover */
 .navbar a:hover, .dropdown:hover .dropbtn {
   background-color: #8d6a9f;
 }
@@ -214,7 +229,7 @@ iframe{
 
 /* Add a purple background color to the top navigation */
 .topnav {
-  background-color: #8d6a9f;
+  background-color: #8D6A9F;
   overflow: hidden;
   margin-left: 20px;
   margin-right: 20px;
@@ -237,16 +252,18 @@ iframe{
   background-color: #a582b7;
 }
 
+/*formatting pic of venn diagram on data science page*/
 .venn-diagram {
   display: inline-block;
   float: right;
   /*margin-right: 100px;
   padding-bottom: 10px;*/
-  position: absolute;
-  top: 60px;
-  right: 50px;
-  width: 25%;
-  height: 40%;
+  position: static;
+  /*top: 38vw;
+  right: 2.5vw;*/
+  width: 235px;
+  height: 235px;
+  background-color: white;
 }
 
 /*
@@ -261,12 +278,77 @@ header {
   padding: 5px 100px;
 }*/
 
+.downloads {
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 25px;
+}
+
+.overview {
+  padding-right: 225px;
+}
+
+.history {
+  background-color: rgba(80, 81, 79, 0.3);
+  margin-top: 20px;
+}
+
+.advantages {
+  margin-top: 80px;
+}
+
 .projects{
   width: 300px;
 }
 
 .groups img{
   display: inline-grid;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+  grid-gap: 50px;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+  width: 350px;
+  height: 220px;
+}
+
+.projectPhoto {
+  width: 350px;
+  height: 220px;
+}
+
+.grid-container-about {
+  display: grid;
+  grid-template-columns: 380px 380px 380px;
+  padding: 10px;
+  grid-gap: 20px;
+}
+
+.grid-item-about {
+  background-color: rgba(255, 255, 255, 0.8);
+  /*padding: 20px;*/
+  font-size: 20px;
+  text-align: center;
+}
+
+.profile-pic {
+  width: 200px;
+  height: 250px;
+}
+
+.paragraph {
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 /*
