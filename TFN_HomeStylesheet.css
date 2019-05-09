@@ -1,0 +1,70 @@
+
+/*welcome page*/
+
+html {
+  background-color: black;
+}
+
+a {
+  color: white;
+}
+a:hover {
+  color: #dda448;
+}
+
+/*background image for welcome page*/
+.home-bg {
+  background-image: url("https://www.serverpronto.com/spu/wp-content/uploads/code.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+/*text box for welcome page*/
+.home-titlebox {
+  margin: 0;
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: transparent;
+  text-align: center;
+}
+
+.home-title {
+  font-size: 72px;
+  color: white;
+  font-weight: bold;
+}
+
+.home-subtitle {
+  font-size: 35px;
+  color: white;
+  font-weight: bold;
+}
+
+/*navigation menu for welcome page*/
+.home-nav {
+  margin: 0;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+.home-legend {
+  margin: 0;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  /*background-color: transparent;*/
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+}
