@@ -1,15 +1,15 @@
 
 /*welcome page*/
 
-html {
-  background-color: black;
+body, html {
+  height: 100%;
 }
 
 a {
   color: white;
 }
 a:hover {
-  color: #dda448;
+  color: rgb(45,107,160);
 }
 
 /*background image for welcome page*/
